@@ -4,57 +4,46 @@ Esse é um Challenge do Programa ONE Oracle com a Alura. Onde foi realizado uma 
 
 ---
 
-## Tecnologias
+## Loja 1
 
-O projeto foi desenvolvido utilizando:
-
-- **HTML5**: Para estruturar a página.
-- **CSS3**: Para o design e a responsividade.
-- **JavaScript**: Para a interatividade e o sorteio.
-
----
-
-## Funcionalidades
-
-Aqui estão as principais funcionalidades que tornam o jogo único:
-
-- **Adicionar amigos**: Insira os nomes dos participantes na lista do sorteio.
-- **Sortear amigos secretos**: Realize o sorteio de forma dinâmica e descubrir quem é o amigo secreto.
-- **Botão de reiniciar o sorteio**: Permite realizar um novo sorteio rapidamente.
+Teve um faturamento total de R$ 1.534.509,12;
+A categoria de produtos mais vendidos foram de móveis (465);
+Os menos vendidos foram de utilidades domésticas (171);
+A avaliação média foi de 3.98;
+O frete médio é de R$ 34,69.
 
 ---
 
-## Como Usar
+## Loja 2
 
-Para testar o jogo, siga os passos abaixo:
-
-1. Acesse o repositório do projeto:
-
-```bash
-git clone git@github.com:may99-coder/Challenge-Amigo_Secreto.git
- ```
-
-2. Acesse o site para rodar o jogo:
-
-[**Clique aqui para acessar o jogo**](https://challenge-amigo-secreto-teste.vercel.app/)
+Teve um faturamento total de R$ 1.488.459,06;
+A categoria de produtos mais vendidos foram de móveis (442);
+Os menos vendidos foram de utilidades domésticas (181);
+A avaliação média foi de 4.04;
+O frete médio é de R$ 33,62.
 
 ---
 
-## Sobre o Desafio
+## Loja 3
 
-O desafio era criar um jogo de sorteio de amigo secreto com uma lista de amigos. Onde peria para:
-
-- **Inserir nomes** em uma lista por meio de um campo de texto e um botão "Adicionar".
-- **Validar a entrada** para garantir que o campo de texto não esteja vazio.
-- **Exibir a lista de nomes inseridos** de forma visível.
-- **Realizar um sorteio aleatório** ao clicar no botão "Sortear Amigo" e exibir o resultado na tela.
+Teve um faturamento total de R$ 1.464.025,03;
+A categoria de produtos mais vendidos foram de móveis (499);
+Os menos vendidos foram de instrumentos musicais (177);
+A avaliação média foi de 4.05;
+O frete médio é de R$ 33,07.
 
 ---
 
-### Diferenciais Implementados
+## Loja 4
 
-Além das funcionalidades básicas solicitadas, foram adicionadas as seguintes melhorias ao projeto:
+Teve um faturamento total de R$ 1.384.497,58;
+A categoria de produtos mais vendidos foram de móveis (480);
+Os menos vendidos foram de instrumentos musicais (170);
+A avaliação média foi de 3.99;
+O frete médio é de R$ 31,28.
 
-- **Botão "Reiniciar o Sorteio de Amigos"**: Agora, é possível realizar um novo sorteio.
-- **Tecla Enter funcional**: Os usuários podem pressionar **Enter** para adicionar um nome à lista, sem precisar usar o mouse.
-- **É Possível Excluir um Nome**: Os nomes inseridos podem ser excluidos antes do incio do sorteio.
+---
+
+## Resultado Final
+
+De acordo com os dados acima das 4 lojas é possivel verificar que a loja com menor faturamento foi da loja 4, não possui a menor média das avaliações porém tem a segunda pior, além disso possui o menor valor de frete e mesmo assim não conseguiu ter um lucro superior ao das demais lojas. Portanto a partir das análises dos dados das 4 lojas, a recomendação é que o Senhor João venda a Loja 4.
